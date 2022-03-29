@@ -1,2 +1,2 @@
-from hello import sayhello
+from main import sayhello
 sayhello()
